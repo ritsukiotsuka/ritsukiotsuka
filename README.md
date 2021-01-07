@@ -1,4 +1,4 @@
-### Hi there, I'm Ritsuki 👋
+## Hi there, I'm Ritsuki 👋
 
 I am a fourth-year student at University of Prince Edward Island majoring in Computer Science!
 
