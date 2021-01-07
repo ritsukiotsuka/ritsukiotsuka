@@ -2,6 +2,11 @@
 
 I am a fourth-year student at University of Prince Edward Island majoring in Computer Science!
 
+# Connect me
+
+- Twitter: [link-1]:twitter.com/ritsukiotsuka
+- Facebook: [link-1]:facebook.com/ritsukiotsuka
+
 <!--
 **ritsukiotsuka/ritsukiotsuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
