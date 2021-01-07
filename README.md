@@ -1,5 +1,7 @@
 ### Hi there, I'm Ritsuki 👋
 
+I am a fourth-year student at University of Prince Edward Island majoring in Computer Science!
+
 <!--
 **ritsukiotsuka/ritsukiotsuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
