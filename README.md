@@ -4,8 +4,10 @@ I am a fourth-year student at University of Prince Edward Island majoring in Com
 
 ## Connect me
 
-- Twitter: <http://www.twitter.com/ritsukiotsuka>
-- Facebook: <http://www.facebook.com/ritsukiotsuka>
+- LinkedIn: <https://www.linkedin.com/in/ritsukiotsuka>
+- Facebook: <https://www.facebook.com/ritsukiotsuka>
+- Twitter: <https://www.twitter.com/ritsukiotsuka>
+
 
 <!--
 **ritsukiotsuka/ritsukiotsuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
