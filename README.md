@@ -2,7 +2,7 @@
 
 I am a fourth-year student at University of Prince Edward Island majoring in Computer Science!
 
-# Connect me
+## Connect me
 
 - Twitter: <http://www.twitter.com/ritsukiotsuka>
 - Facebook: <http://www.facebook.com/ritsukiotsuka>
