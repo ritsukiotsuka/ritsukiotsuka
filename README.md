@@ -8,8 +8,6 @@ I am a fourth-year student at University of Prince Edward Island majoring in Com
 - Facebook: <https://www.facebook.com/ritsukiotsuka>
 - Twitter: <https://www.twitter.com/ritsukiotsuka>
 
-<a href="https://twitter.com/ritsukiotsuka?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ritsukiotsuka</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <!--
 **ritsukiotsuka/ritsukiotsuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
